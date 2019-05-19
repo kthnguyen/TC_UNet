@@ -1,0 +1,369 @@
+An error ocurred while starting the kernel
+2019󈚩󈚶 18:10:23.630950: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2019󈚩󈚶 18:10:23.907119: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Quadro K620 major: 5 minor: 0 memoryClockRate(GHz): 1.124
+pciBusID: 0000:01:00.0
+totalMemory: 2.00GiB freeMemory: 1.65GiB
+2019󈚩󈚶 18:10:23.909659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:10:25.492102: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:10:25.493338: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:10:25.493676: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:10:25.494205: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:10:31.036596: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.29GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:10:35.048792: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.14GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:10:43.060904: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.69GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:06.652124: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:23:06.652852: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:23:06.653750: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:23:06.654179: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:23:06.654706: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:23:25.222894: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.05GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:29.262863: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.69GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:30.026591: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.11GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:31.468187: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:34.549412: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.69GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:39.009869: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.02GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:23:39.234205: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.05GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019󈚩󈚶 18:34:14.096869: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:34:14.097459: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:34:14.098130: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:34:14.098741: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:34:14.099473: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:34:37.779687: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:34:37.780231: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:34:37.780830: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:34:37.781236: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:34:37.781640: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:34:49.858916: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:34:49.859539: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:34:49.860156: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:34:49.860537: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:34:49.860940: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:34:58.693794: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:34:58.694395: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:34:58.695065: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:34:58.695549: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:34:58.696010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:36:10.502125: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:36:10.502818: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:36:10.503569: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:36:10.504061: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:36:10.504696: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:06.416179: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:06.416698: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:06.417270: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:06.417620: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:06.418061: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:16.841889: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:16.842532: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:16.843261: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:16.843772: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:16.844287: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:21.815122: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:21.815773: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:21.816486: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:21.816922: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:21.817450: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:29.104144: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:29.104827: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:29.105558: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:29.106009: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:29.106548: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:37.646066: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:37.646716: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:37.647420: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:37.647864: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:37.648390: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:44.882719: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:44.883366: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:44.884091: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:44.884577: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:44.885219: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:37:49.649974: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:37:49.650610: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:37:49.651205: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:37:49.651622: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:37:49.652165: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:03.464861: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:03.465558: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:03.466333: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:03.466812: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:03.467402: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:07.298137: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:07.298661: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:07.299215: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:07.299638: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:07.300039: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:09.846056: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:09.846715: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:09.847457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:09.847912: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:09.848449: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:12.610279: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:12.610919: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:12.611624: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:12.612061: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:12.612581: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:15.452349: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:15.452905: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:15.453483: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:15.453836: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:15.454246: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:17.972361: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:17.973023: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:17.973761: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:17.974242: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:17.974788: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:20.495965: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:20.496683: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:20.497429: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:20.497909: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:20.498452: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:38:23.140032: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:38:23.140706: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:38:23.141405: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:38:23.141889: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:38:23.142406: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 18:47:04.464886: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 18:47:04.465583: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 18:47:04.466208: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 18:47:04.466565: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 18:47:04.467010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:10:08.620872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:10:08.621585: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:10:08.622318: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:10:08.622789: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:10:08.623382: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:10:23.428238: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:10:23.428747: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:10:23.429319: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:10:23.429672: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:10:23.430085: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:10:40.135217: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:10:40.135881: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:10:40.136601: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:10:40.137063: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:10:40.137597: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:10:49.218492: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:10:49.219145: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:10:49.219864: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:10:49.220312: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:10:49.220876: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:11:26.984655: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:11:26.985358: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:11:26.986070: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:11:26.986513: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:11:26.987115: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:11:39.014398: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:11:39.015058: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:11:39.015626: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:11:39.015983: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:11:39.016408: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:12:22.455290: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:12:22.456010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:12:22.456754: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:12:22.457259: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:12:22.457843: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:12:44.122218: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:12:44.122893: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:12:44.123498: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:12:44.123851: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:12:44.124284: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:14:56.014936: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:14:56.015702: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:14:56.016542: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:14:56.017190: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:14:56.018091: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:15:08.116398: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:15:08.117130: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:15:08.117862: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:15:08.118378: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:15:08.118916: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:17:33.243930: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:17:33.244620: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:17:33.245178: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:17:33.245552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:17:33.245977: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:19:02.637891: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:19:02.638590: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:19:02.639374: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:19:02.639855: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:19:02.640420: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:19:29.542707: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:19:29.543232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:19:29.543798: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:19:29.544176: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:19:29.544758: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:20:17.407274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:20:17.407952: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:20:17.408596: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:20:17.409018: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:20:17.409600: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:20:36.355929: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:20:36.356461: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:20:36.357030: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:20:36.357381: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:20:36.357804: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:20:55.116153: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:20:55.116790: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:20:55.117425: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:20:55.117785: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:20:55.118200: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:21:23.635860: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:21:23.636534: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:21:23.637253: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:21:23.637723: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:21:23.638270: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:21:46.966482: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:21:46.967148: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:21:46.967831: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:21:46.968297: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:21:46.968823: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:21:53.670874: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:21:53.671571: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:21:53.672305: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:21:53.672753: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:21:53.673298: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:22:01.925197: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:22:01.925906: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:22:01.926608: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:22:01.927127: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:22:01.927644: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:23:24.650510: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:23:24.651215: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:23:24.651939: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:23:24.652387: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:23:24.652935: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:24:31.494556: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:24:31.495079: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:24:31.495654: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:24:31.496005: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:24:31.496437: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:27:09.636666: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:27:09.637258: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:27:09.637801: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:27:09.638132: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:27:09.638580: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:28:10.498358: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:28:10.498955: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:28:10.499603: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:28:10.500019: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:28:10.500550: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:29:31.560535: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:29:31.561226: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:29:31.562179: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:29:31.562722: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:29:31.563272: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:30:55.339659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:30:55.340245: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:30:55.340915: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:30:55.341350: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:30:55.341897: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:31:28.051534: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:31:28.052155: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:31:28.052757: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:31:28.053096: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:31:28.053545: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:40:16.423535: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:40:16.424144: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:40:16.424764: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:40:16.425148: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:40:16.425594: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:53:45.969469: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:53:45.970146: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:53:45.970872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:53:45.971332: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:53:45.971901: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:54:46.882968: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:54:46.883664: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:54:46.884391: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:54:46.884911: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:54:46.885426: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 19:55:44.017389: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 19:55:44.018277: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 19:55:44.019257: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 19:55:44.019700: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 19:55:44.020124: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:00:10.849234: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:00:10.849917: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:00:10.850694: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:00:10.851220: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:00:10.852683: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:02:39.283527: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:02:39.284061: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:02:39.284620: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:02:39.285089: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:02:39.285542: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:03:55.141892: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:03:55.142408: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:03:55.142992: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:03:55.143328: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:03:55.143736: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:04:33.466836: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:04:33.467340: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:04:33.467916: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:04:33.468252: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:04:33.468660: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:23:52.656617: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:23:52.657275: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:23:52.657934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:23:52.658389: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:23:52.658945: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 20:32:40.244901: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 20:32:40.245568: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 20:32:40.246341: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 20:32:40.246827: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 20:32:40.247266: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:23:51.312535: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:23:51.313154: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:23:51.313728: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:23:51.314063: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:23:51.314514: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:29:58.385337: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:29:58.385918: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:29:58.386519: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:29:58.386918: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:29:58.387426: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:35:23.868369: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:35:23.868994: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:35:23.869921: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:35:23.870554: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:35:23.871174: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:38:14.106430: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:38:14.107043: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:38:14.107603: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:38:14.107990: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:38:14.108479: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:38:30.340192: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:38:30.340772: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:38:30.341367: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:38:30.341831: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:38:30.342233: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:44:54.347712: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:44:54.348513: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:44:54.349232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:44:54.349754: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:44:54.350280: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:45:26.749136: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:45:26.749816: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:45:26.750638: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:45:26.751050: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:45:26.751522: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:45:59.977284: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:45:59.977845: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:45:59.978494: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:45:59.978884: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:45:59.979384: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:52:27.847694: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:52:27.848405: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:52:27.849143: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:52:27.849629: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:52:27.850241: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 22:57:37.205160: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2019󈚩󈚶 22:57:37.205693: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019󈚩󈚶 22:57:37.206458: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0 
+2019󈚩󈚶 22:57:37.206905: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0: N 
+2019󈚩󈚶 22:57:37.207390: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1391 MB memory) ‑> physical GPU (device: 0, name: Quadro K620, pci bus id: 0000:01:00.0, compute capability: 5.0)
+2019󈚩󈚶 23:12:53.270000: E tensorflow/stream_executor/cuda/cuda_event.cc:48] Error polling for event status: failed to query event: CUDA_ERROR_LAUNCH_TIMEOUT: the launch timed out and was terminated
+2019󈚩󈚶 23:12:53.270843: F tensorflow/core/common_runtime/gpu/gpu_event_mgr.cc:274] Unexpected Event status: 1
+2
